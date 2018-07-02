@@ -1,0 +1,34 @@
+Unsupervised learning
+
+Clustering algorithm, useful in
+- Market segmentation
+- Organizing computing clusters
+- Social network analysis
+- Astronomical data analysis
+
+Cocktail party problem
+>> two people speaking together... 2 inputs are given.
+>> Output 1 : english voice
+>> Output 2 : chinese voice
+
+Cocktail party problem algo:
+[W,s,v] = svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');
+
+
+LINEAR  REGRESSION
+
+Supervised learning gives the "right answer" for any problems... 
+Data set == training set.
+
+
+Notations:
+
+m = no. of training examples
+x = "input" variables/features
+y = "output" variable/features
+(x,y) = single training example
+(xi,yi) = ith training example [superscript i]
+  
+ 
+
+

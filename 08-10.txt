@@ -1,0 +1,6 @@
+08-10-2011
+
+Supervised Laerning
+
+Housing prices - Regression prob
+Breast cancer - Classification problem
